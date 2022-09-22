@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiSellerUrl: 'https://localhost:44375/e-auction/api/v1/seller/'
+  apiSellerUrl: 'https://eauctionapideploy.azurewebsites.net/e-auction/api/v1/seller/'
 };
 
 /*
